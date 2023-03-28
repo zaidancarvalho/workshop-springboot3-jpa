@@ -84,7 +84,7 @@ public class Order implements Serializable{
 		this.client = client;
 	}
 	
-	public Set<OrderItem> items() {
+	public Set<OrderItem> getItems() {
 		return items;
 	}
 
