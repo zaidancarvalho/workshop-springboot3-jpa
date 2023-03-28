@@ -4,7 +4,7 @@
 # Sobre o projeto
 WorkShop SpringBoot3 JPA é um projeto de Web Services com Spring Boot e JPA/Hibernate elaborado no Java COMPLETO 2023 Programação Orientada a Objetos +Projetos,
 criado pela [DevSuperior](https://www.udemy.com/course/java-curso-completo/) na plataforma [UDEMY](https://www.udemy.com/course/java-curso-completo/).  
-Curso é destinado para obter/aprimorar meus conhecimentos relacionado ao back-end na linguagem Java.
+Curso destinado para obter/aprimorar meus conhecimentos relacionado ao back-end na linguagem Java.
 
 
 ## Objetivo do curso:
