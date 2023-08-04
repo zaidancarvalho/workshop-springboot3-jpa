@@ -69,7 +69,7 @@ SpringBoot app
 
 Felipe Carvalho Fernandez
 
-https://www.linkedin.com/in/felipe-carvalho-fernandez/
+https://www.linkedin.com/in/fernandez-felipe/
 
 # Agradecimento
 Agradecer ao [Nélio Alves](https://www.linkedin.com/in/nelio-alves/) da [DevSuperior](https://www.udemy.com/course/java-curso-completo/). Meu mentor nessa jornada incrível como desenvolvedor back-end.
